@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UdemyRabbitMQ.publisher": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

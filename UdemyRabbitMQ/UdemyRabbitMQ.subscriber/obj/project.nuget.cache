@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hE2qEfI4TN0mhT5EHnuyt2q1SMn4CdTlmBw1H8eBk1MidMYqDfH1Vum8d3m+WAFar9sNNS8LqgZJJu/A/+0mgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erhaa\\source\\repos\\UdemyRabbitMQ\\UdemyRabbitMQ.subscriber\\UdemyRabbitMQ.subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erhaa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\erhaa\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
